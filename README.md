@@ -1,2 +1,3 @@
 # hello-world
-just to say hello to around the globe
+just to say hello around the globe.
+i am faiz
